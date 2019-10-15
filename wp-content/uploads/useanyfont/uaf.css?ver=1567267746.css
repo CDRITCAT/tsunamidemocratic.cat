@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'block';
+				font-style: normal;
+				src: url('190830094807Block.eot');
+				src: local('block'), url('190830094807Block.eot') format('embedded-opentype'), url('190830094807Block.woff') format('woff');
+			}
+            
+            .block{font-family: 'block' !important;}
+            
+						h1, h2, h3, h4, #menu-one-page-menu li a, #menu-one-page-menu li span{
+					font-family: 'block' !important;
+				}
+		
